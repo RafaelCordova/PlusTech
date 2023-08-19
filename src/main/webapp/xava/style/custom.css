@@ -1,0 +1,12 @@
+/*
+Pon aquí tu propio estilo
+*/
+
+#tuLogotipo {
+    display: block;
+    margin: auto;
+    background-image: url("../imageneslogo/atun.jpg");
+    background-repeat: no-repeat;
+    background-size: 170px;
+    background-position: bottom;
+}
